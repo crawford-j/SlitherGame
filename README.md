@@ -1,4 +1,5 @@
-Functionality for the actual snake gameplay was heavily inspired by YouTube creator Bro Code and their video: https://www.youtube.com/watch?v=bI6e6qjJ8JQ
+Beginner project that helped spark my inspiration for developing games.
 
-After following the tutorial I wanted to add my own additions like a title screen, a functional settings screen, and a way to restart after the game ended.
+Working through this gave me valuable insight on how much effort goes into making functional video games, even for something as simple as Snake.
 
+I will be working on more complicated projects in the future, I'm very excited to see what I can accomplish.
